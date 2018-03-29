@@ -7,7 +7,7 @@
 * 登录到Github，创建一个新的仓库，名称我们就命令为`book`，这样我就就得到了一个`book`的空仓库。
 * 克隆仓库到本地：`git clone git@github.com:USER_NAME/book.git`。
 * 创建一个新分支：`git checkout -b gh-pages`，注意，分支名必须为`gh-pages`。
-* 将分支push到仓库：`git push -u origin gh-pages`。
+* 将分支push到仓库：`git push -u origin gh-pages`。 
 * 切换到主分支: `git checkout master`。
 
 经过这一步处理，我们已经创建好`gh-pages`分支了，有了这个分支，Github会自动为你分配一个访问网址：
