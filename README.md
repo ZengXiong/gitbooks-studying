@@ -1,10 +1,12 @@
 # Gitbook初级教程
 
-### 个人博客：[zengxiong.github.io](/zengxiong.github.io)
+## 鸡汤格言:如果你真觉得难，坚持不了，那你就放弃。但是你放弃了就不要抱怨，说我为什么没有得到。我觉得人生就是这样，要得到你需要有付出，要付出你还要学会坚持，每个人都是通过自己的努力，去决定自己生活的样子！
+
+### 个人博客：https://zengxiong.github.io
 
 #### 本书参考如下两篇文章整理而成，并且有所修改:
 
-1. 在线阅读:[http://wanqingwong.com/gitbook-zh/](http://wanqingwong.com/gitbook-zh/)
+1. 在线阅读:zengxiong.github.io[/](http://wanqingwong.com/gitbook-zh/)
 2. 在线阅读:[http://www.chengweiyang.cn/gitbook](http://www.chengweiyang.cn/gitbook)
 
 > GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
