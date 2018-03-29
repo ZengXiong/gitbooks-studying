@@ -20,9 +20,9 @@
 
 当然，由于我们内容还没有上传所以你点开链接，也只是一个404页面。
 
-# **同步静态网站代码到分支**
+## **同步静态网站代码到分支**
 
-下面我们就可以将build好的静态网站代码同步到`gh-pages`分支中去了：
+## 下面我们就可以将build好的静态网站代码同步到`gh-pages`分支中去了：
 
 * 切换出master分支目录。我们需要将`gh-pages`分支内容存放到另一个目录中去。
 * 克隆`gh-pages`分支：`git clone -b gh-pages git@github.com:USERNAME/book.git book-end`。这步我们只克隆了`gh-pages`分支，并存放在一个新的目录`book-end`里面。
