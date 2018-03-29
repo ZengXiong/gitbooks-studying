@@ -1,5 +1,7 @@
 # Gitbook 入门教程
 
+### 个人博客：zengxiong.github.io
+
 #### 本书参考如下两篇文章整理而成，并且有所修改:
 
 1. 在线阅读:[http://wanqingwong.com/gitbook-zh/](http://wanqingwong.com/gitbook-zh/)
