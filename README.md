@@ -1,8 +1,6 @@
-# Gitbook 入门教程
+# Gitbook初级教程
 
-### 个人博客：zengxiong.github.io
-
-### 个人博客：zengxiong.github.io
+### 个人博客：[zengxiong.github.io](/zengxiong.github.io)
 
 #### 本书参考如下两篇文章整理而成，并且有所修改:
 
