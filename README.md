@@ -7,7 +7,6 @@
 #### 本书参考如下两篇文章整理而成，并且有所修改:
 
 1. 在线阅读:zengxiong.github.io[/](http://wanqingwong.com/gitbook-zh/)
-2. 在线阅读:[http://www.chengweiyang.cn/gitbook](http://www.chengweiyang.cn/gitbook)
 
 > GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
 
@@ -26,12 +25,11 @@ GitBook支持输出多种文档格式，如：
 ## Gitbook项目地址
 
 * GitBook项目官网：[http://www.gitbook.io](http://www.gitbook.io)
-* GitBook Github地址：[https://github.com/GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)
 
 ## 本项目地址
 
-* 仓库：[https://github.com/yuzeshan/gitbook-studying](https://github.com/yuzeshan/gitbook-studying)
-* 在线阅读：[http://yuzeshan.gitbooks.io/gitbook-studying/content/](http://yuzeshan.gitbooks.io/gitbook-studying/content/)
+* 仓库：[https://github.com/zengxiong/gitbook-studying](https://github.com/yuzeshan/gitbook-studying)
+* 在线阅读：[http://zengxiong.gitbooks.io/gitbook-studying/content/](http://yuzeshan.gitbooks.io/gitbook-studying/content/)
 
 
 
